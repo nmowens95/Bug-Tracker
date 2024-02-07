@@ -1,0 +1,37 @@
+Home Page
+- needs a log in and sign up on nav bar
+- footer with something
+- some kind of main body
+
+Authorization & Authentication
+- need to be able to assign roles
+- authenticate a user with sign in/sign up
+- logout functionality
+
+- forgot password
+- change password
+
+Admin
+- can use CRUD operations on users
+- can use CRUD operations on bugs
+- can use CRUD operations on projects
+
+users
+- add users
+- edit the user
+- view details of the user
+- listing of all the users
+
+Projects
+- add project
+- edit project
+- view details of project
+- List of all project
+- add user to project
+
+Bugs
+- add bug
+- edit bug
+- delete bug
+- view details of bug
+- listing of all bugs
